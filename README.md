@@ -25,7 +25,7 @@ I'm a **backend engineer**, previously worked at **Traveloka**, where I built an
 name: Zaki Devara
 location: Indonesia 🌏
 focus: Distributed Backend Systems
-languages: [Java, JavaScript, Python, PHP]
+languages: [Java, Go, JavaScript, Python, PHP]
 ```
 
 <br/>
@@ -55,7 +55,7 @@ languages: [Java, JavaScript, Python, PHP]
 
 | Category | Tools |
 |---|---|
-| **Languages** | Java, JavaScript, PHP |
+| **Languages** | Java, Go, JavaScript/TypeScript, PHP, Python |
 | **Frameworks** | Spring Boot, Laravel, React.js |
 | **AWS** | ECS, Lambda, API Gateway, S3, Step Functions, Bedrock, EventBridge, SQS/SNS |
 | **Databases** | PostgreSQL, MongoDB, DynamoDB |
